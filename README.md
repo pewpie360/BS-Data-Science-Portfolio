@@ -1,2 +1,2 @@
 # Python-Data_Science
-This Repo is consist of Data Science related stuffs using Python consist of Data Manipulation, Data Visualization, and slight timeseries.
+This Repository contains my personal file outputs of Python codes related to my course which is Data Science.
