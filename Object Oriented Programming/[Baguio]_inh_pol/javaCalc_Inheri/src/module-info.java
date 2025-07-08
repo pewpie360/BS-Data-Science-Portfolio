@@ -1,0 +1,2 @@
+module javaCalc_Inheri {
+}
